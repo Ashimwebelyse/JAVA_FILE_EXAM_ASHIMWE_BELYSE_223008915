@@ -1,0 +1,1 @@
+The Utilities Automation System (UAS) is a desktop application that provides a centralized platform for managing utility services such as electricity, water, and gas. Designed for administrators, operators, and customers, the system automates key operations including subscriber registration, service management, billing, payment tracking, and complaint handling.
